@@ -1,0 +1,3 @@
+﻿  Hangman.cpp
+C:\Users\jackd\source\repos\Hangman\Hangman.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\jackd\source\repos\Hangman\Debug\Hangman.exe
